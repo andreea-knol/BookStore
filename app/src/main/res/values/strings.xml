@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="number_of_rows">Number of rows in books table: %1$d</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here…</string>
+    <string name="empty_view_subtitle_text">Get started by adding a book</string>
+    <string name="sale_button_text">Sale</string>
+    <string name="action_delete_all_entries">Delete All Books</string>
+    <string name="price">Price</string>
+    <string name="price_label">Price:</string>
+    <string name="quantity">Quantity</string>
+    <string name="quantity_label">Quantity:</string>
+    <string name="product_name">Product name</string>
+    <string name="supplier_name">Supplier name</string>
+    <string name="supplier_phone_number">Supplier phone number</string>
+    <string name="editor_title_new_book">Add a Book</string>
+    <string name="editor_title_edit_book">Edit book</string>
+    <string name="book_saved">Book saved.</string>
+    <string name="book_not_saved">Error with saving book.</string>
+    <string name="book_updated">Book updated.</string>
+    <string name="book_not_updated">Error with updating book.</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_book_successful">Book deleted</string>
+    <string name="editor_delete_book_failed">Error with deleting book</string>
+    <string name="delete_dialog_msg">Delete this book?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="button_decrement_text" translatable="false">-</string>
+    <string name="button_increment_text" translatable="false">+</string>
+    <string name="min_number_books_message">You cannot have less than 0 books!</string>
+    <string name="button_contact_supplier">Contact Supplier</string>
+    <string name="null_values_message">You must enter valid information before saving.</string>
+    <string name="null_phone_number_message">You must enter the phone number before contacting supplier.</string>
+</resources>
